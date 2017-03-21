@@ -1,0 +1,17 @@
+{
+    "DbName": "WordPress, WordPress Plugins and third-party libraries",
+    "DbVersion": 1,
+    "Vulnerabilities": [
+        {
+            "Title": "High Priority - Plugin FormBuilder 1.05 - SQL Injection",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1467331200",
+            "AdvisoryURL": "https://sumofpwn.nl/advisory/2016/multiple_blind_sql_injection_vulnerabilities_in_formbuilder_wordpress_plugin.html",
+            "PluginName": "FormBuilder",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.08",
+            "DetectByPathExists": false,
+            "Path": "wp-content/plugins/formbuilder/formbuilder.php"
+        }
+    ]
+}
