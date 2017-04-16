@@ -1,3 +1,7 @@
-[
-    "dbDrupal7Plugins.json"
-]
+{
+    "DbName": "Drupal 8 Plugins",
+    "DbVersion": 1,
+    "Parts": [
+        "dbDrupal7Plugins.json"
+    ]
+}
