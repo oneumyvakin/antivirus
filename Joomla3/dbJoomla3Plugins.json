@@ -917,6 +917,18 @@
             "VersionTo": "1.5.0",
             "DetectByPathExists": false,
             "Path": "administrator/components/com_macgallery/macgallery.xml"
+        },
+        {
+            "Title": "High Priority - Component Tag 1.7.6 - SQL Injection",
+            "SoftwareName": "Tag",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1411344000",
+            "AdvisoryURL": "https://www.vulnerability-lab.com/get_content.php?id=2061",
+            "SoftwareType": "Joomla Component",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.7.6",
+            "DetectByPathExists": false,
+            "Path": "administrator/components/com_tag/manifest.xml"
         }
     ]
 }

@@ -1,6 +1,166 @@
 {
     "Vulnerabilities": [
         {
+            "Title": "Media - Moderately Critical - Multiple vulnerabilities - SA-CONTRIB-2017-044",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869190",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Media",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.0",
+            "DetectByPathExists": false,
+            "Path": "https://www.drupal.org/node/2877316"
+        },
+        {
+            "Title": "Webform Multiple file upload - Moderately Critical - Access bypass - SA-CONTRIB-2017-045",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2877356",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Webform Multiple file upload",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.4",
+            "DetectByPathExists": false,
+            "Path": "sites/all/modules/webform_multifile/webform_multifile.info"
+        },
+        {
+            "Title": "DRD Agent - Critical - Multiple vulnerabilites - SA-CONTRIB-2017-047",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2877392",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "DRD Agent",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "3.0",
+            "DetectByPathExists": false,
+            "Path": "sites/all/modules/drd_agent/drd_agent.info"
+        },
+        {
+            "Title": "Shibboleth authentication - Moderately Critical - Multiple vulnerabilities - SA-CONTRIB-2017-043",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2875366",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Shibboleth authentication",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "4.3",
+            "DetectByPathExists": false,
+            "Path": "sites/all/modules/shib_auth/shib_auth.info"
+        },
+        {
+            "Title": "Media - Critical - 1.x branch unsupported - SA-CONTRIB-2017-042",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869190",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Media",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.9",
+            "DetectByPathExists": false,
+            "Path": "sites/all/modules/media/media.info"
+        },
+        {
+            "Title": "Filemaker Form - Critical - Unsupported - SA-CONTRIB-2017-37",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869129",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Filemaker",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.1",
+            "DetectByPathExists": true,
+            "Path": "sites/all/modules/filemakerform/filemakerform.info"
+        },
+        {
+            "Title": "References - Unsupported - SA-CONTRIB-2017-38",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869138",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "References",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.1",
+            "Path": "sites/all/modules/references/references.info"
+        },
+        {
+            "Title": "Open Atrium - Moderately critical - Information Disclosure - SA-CONTRIB-2017-041",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869156",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Open Atrium",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.84",
+            "Path": "sites/all/modules/oa_comment/oa_comment.info"
+        },
+        {
+            "Title": "Open Atrium - Moderately critical - Information Disclosure - SA-CONTRIB-2017-041",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869156",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Open Atrium",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.84",
+            "Path": "sites/all/modules/oa_core/modules/oa_news/oa_news.info"
+        },
+        {
+            "Title": "Open Atrium - Moderately critical - Information Disclosure - SA-CONTRIB-2017-041",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869156",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Open Atrium",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.84",
+            "Path": "sites/all/modules/oa_core/modules/oa_river/oa_river.info"
+        },
+        {
+            "Title": "Open Atrium - Moderately critical - Information Disclosure - SA-CONTRIB-2017-041",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869156",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Open Atrium",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.84",
+            "Path": "sites/all/modules/oa_core/modules/oa_sections/oa_sections.info"
+        },
+        {
+            "Title": "Open Atrium - Moderately critical - Information Disclosure - SA-CONTRIB-2017-041",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869156",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Open Atrium",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.84",
+            "Path": "sites/all/modules/oa_core/oa_core.info"
+        },
+        {
+            "Title": "Scheduler Workbench Integration - Critical - Unsupported - SA-CONTRIB-2017-39",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2869141",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Scheduler Workbench Integration",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.2",
+            "Path": "sites/all/modules/scheduler_workbench/scheduler_workbench.info"
+        },
+        {
+            "Title": "Auto Login URL - Less Critical - Access Bypass - DRUPAL-SA-CONTRIB-2017-034",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491022800",
+            "AdvisoryURL": "https://www.drupal.org/node/2867101",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Auto Login URL",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.7",
+            "Path": "sites/all/modules/auto_login_url/auto_login_url.info"
+        },
+        {
             "Title": "Moderately Critical - Office Hours 1.5 - Cross Site Scripting - DRUPAL-SA-CONTRIB-2017-032",
             "CVE": "No CVE",
             "AdvisoryDate": "1490140800",
@@ -9,7 +169,7 @@
             "SoftwareName": "Office Hours",
             "VersionFrom": "0.0.0",
             "VersionTo": "1.5",
-            "Path": "modules/office_hours/office_hours.info"
+            "Path": "sites/all/modules/office_hours/office_hours.info"
         },
         {
             "Title": "Private - Critical - Access bypass - DRUPAL-SA-CONTRIB-2017-031",
@@ -20,7 +180,7 @@
             "SoftwareName": "Private",
             "VersionFrom": "0.0.0",
             "VersionTo": "1.9",
-            "Path": "modules/private/private.info"
+            "Path": "sites/all/modules/private/private.info"
         },
         {
             "Title": "Drupal up to 7.51/8.2.2 Taxonomy Module information disclosure",

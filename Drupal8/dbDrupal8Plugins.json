@@ -1,7 +1,64 @@
 {
     "Vulnerabilities": [
         {
-            "Title": "Moderately Critical - Linkit Hours 4.2 - Access Bypass - DRUPAL-SA-CONTRIB-2017-033",
+            "Title": "Drupal Remote Dashboard - Critical - Weak encryption keys - SA-CONTRIB-2017-046",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1494374400",
+            "AdvisoryURL": "https://www.drupal.org/node/2877388",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Drupal Remote Dashboard",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "3.1",
+            "DetectByPathExists": false,
+            "Path": "modules/drd_agent/drd.info.yml"
+        },
+        {
+            "Title": "DRD Agent - Critical - Multiple vulnerabilites - SA-CONTRIB-2017-047",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491048000",
+            "AdvisoryURL": "https://www.drupal.org/node/2877392",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "DRD Agent",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "3.0",
+            "DetectByPathExists": false,
+            "Path": "modules/drd_agent/drd_agent.info.yml"
+        },
+        {
+            "Title": "Drupal Core - Critical - Access Bypass - SA-CORE-2017-002",
+            "CVE": "CVE-2017-6919",
+            "AdvisoryDate": "1479254400",
+            "AdvisoryURL": "https://www.drupal.org/SA-CORE-2017-002",
+            "SoftwareType": "Drupal Core",
+            "SoftwareName": "Core",
+            "VersionFrom": "8.0.0",
+            "VersionTo": "8.2.7",
+            "Path": "core/modules/system/system.info.yml"
+        },
+        {
+            "Title": "Drupal Core - Critical - Access Bypass - SA-CORE-2017-002",
+            "CVE": "CVE-2017-6919",
+            "AdvisoryDate": "1479254400",
+            "AdvisoryURL": "https://www.drupal.org/SA-CORE-2017-002",
+            "SoftwareType": "Drupal Core",
+            "SoftwareName": "Core",
+            "VersionFrom": "8.3.0",
+            "VersionTo": "8.3.1",
+            "Path": "core/modules/system/system.info.yml"
+        },
+        {
+            "Title": "Auto Login URL - Less Critical - Access Bypass - DRUPAL-SA-CONTRIB-2017-034",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1491022800",
+            "AdvisoryURL": "https://www.drupal.org/node/2867101",
+            "SoftwareType": "Drupal Module",
+            "SoftwareName": "Auto Login URL",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "1.1",
+            "Path": "modules/auto_login_url/auto_login_url.info.yml"
+        },
+        {
+            "Title": "Moderately Critical - Linkit 4.2 - Access Bypass - DRUPAL-SA-CONTRIB-2017-033",
             "CVE": "No CVE",
             "AdvisoryDate": "1490140800",
             "AdvisoryURL": "https://www.drupal.org/node/2862986",
