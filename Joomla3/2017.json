@@ -655,16 +655,16 @@
             "Path": "administrator/components/com_rpl/rpl.xml"
         },
         {
-          "Title": "High Priority - Component Event Manager 2.1.4 - Multiple Vulnerabilities",
-          "CVE": "No CVE",
-          "AdvisoryDate": "1439769600",
-          "AdvisoryURL": "https://vel.joomla.org/resolved/1733-event-manager-2-1-4-and-below-other",
+            "Title": "High Priority - Component Event Manager 2.1.4 - Multiple Vulnerabilities",
+            "CVE": "No CVE",
+            "AdvisoryDate": "1439769600",
+            "AdvisoryURL": "https://vel.joomla.org/resolved/1733-event-manager-2-1-4-and-below-other",
             "SoftwareType": "Joomla Component",
-          "SoftwareName": "Event Manager",
-          "VersionFrom": "0.0.0",
-          "VersionTo": "2.1.4",
-          "DetectByPathExists": false,
-          "Path": "administrator/components/com_jem/jem.xml"
+            "SoftwareName": "Event Manager",
+            "VersionFrom": "0.0.0",
+            "VersionTo": "2.1.4",
+            "DetectByPathExists": false,
+            "Path": "administrator/components/com_jem/jem.xml"
         },
         {
             "Title": "High Priority - Component Vnmshop - Unsupported",

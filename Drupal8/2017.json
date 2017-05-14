@@ -10,7 +10,7 @@
             "VersionFrom": "0.0.0",
             "VersionTo": "3.1",
             "DetectByPathExists": false,
-            "Path": "modules/drd_agent/drd.info.yml"
+            "Path": "modules/drd/drd.info.yml"
         },
         {
             "Title": "DRD Agent - Critical - Multiple vulnerabilites - SA-CONTRIB-2017-047",
